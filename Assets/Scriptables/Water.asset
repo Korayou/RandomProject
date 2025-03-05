@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44ab81a2ed7b0b44497555b19214733c, type: 3}
+  m_Name: Water
+  m_EditorClassIdentifier: 
+  prefabs:
+  - {fileID: 919132149155446097, guid: e09ce0f97aaa13644bad6d98abb0dfbd, type: 3}
+  - {fileID: 919132149155446097, guid: 77217e3a05ab51a45bb53533da417434, type: 3}
+  - {fileID: 919132149155446097, guid: e22d37bb7b166df4c92cd992fd7c4f24, type: 3}
+  - {fileID: 919132149155446097, guid: e22d37bb7b166df4c92cd992fd7c4f24, type: 3}
+  - {fileID: 919132149155446097, guid: e22d37bb7b166df4c92cd992fd7c4f24, type: 3}
+  noises:
+  - type: 0
+    scaleMinMax: {x: 0, y: 80}
+    offset: {x: 0, y: 0}
