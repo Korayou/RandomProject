@@ -55,7 +55,7 @@ public class GenerationTerrain : MonoBehaviour
     {
         foreach (ScriptableTerrain biome in biomes)
         {
-            ShuffleBag<GameObject> shuffleBag = new(biome.prefabs, 2, 0.8f);
+            ShuffleBag<GameObject> shuffleBag = new(biome.prefabs, 5, 0.9f);
             foreach (NoiseStruct noiseSettings in biome.noises)
             {
                 if (generationNoise[noiseSettings].GetNoiseValueAtCoordinates(i, j) > 0.5)

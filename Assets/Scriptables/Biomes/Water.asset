@@ -18,7 +18,10 @@ MonoBehaviour:
   - {fileID: 919132149155446097, guid: e22d37bb7b166df4c92cd992fd7c4f24, type: 3}
   - {fileID: 919132149155446097, guid: e22d37bb7b166df4c92cd992fd7c4f24, type: 3}
   - {fileID: 919132149155446097, guid: e22d37bb7b166df4c92cd992fd7c4f24, type: 3}
+  - {fileID: 919132149155446097, guid: e22d37bb7b166df4c92cd992fd7c4f24, type: 3}
+  - {fileID: 919132149155446097, guid: e22d37bb7b166df4c92cd992fd7c4f24, type: 3}
+  - {fileID: 919132149155446097, guid: e22d37bb7b166df4c92cd992fd7c4f24, type: 3}
   noises:
   - type: 0
-    scaleMinMax: {x: 0, y: 80}
+    scaleMinMax: {x: 0, y: 20}
     offset: {x: 0, y: 0}

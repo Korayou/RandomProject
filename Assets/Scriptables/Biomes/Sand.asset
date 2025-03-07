@@ -18,5 +18,5 @@ MonoBehaviour:
   - {fileID: 919132149155446097, guid: b465806decb2aa54f9e504b0a5cae3fa, type: 3}
   noises:
   - type: 0
-    scaleMinMax: {x: 0, y: 100}
+    scaleMinMax: {x: 0, y: 40}
     offset: {x: 0, y: 0}
